@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "base_url": "https://hris.pjspsys.com",
+  "api_version": "v1",
+  "features": {
+    "location_tracking": true,
+    "face_recognition": true,
+    "auto_sync": true,
+    "background_sync": true
+  },
+  "sync_interval_minutes": 15,
+  "last_updated": "2024-02-15T10:00:00Z",
+  "notes": "Update base_url jika server pindah. File ini bisa di-host di GitHub, Firebase, atau server lain."
+}
